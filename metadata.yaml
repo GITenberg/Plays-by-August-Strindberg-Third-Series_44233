@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1609
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44233#Plays-by-August-Strindberg-Third-Series
 gutenberg_issued: '2013-11-19'
 gutenberg_type: Text
 identifiers:
